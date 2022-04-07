@@ -1,0 +1,15 @@
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\LatihanOverLoadingMethod.csproj.AssemblyReference.cache
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\LatihanOverLoadingMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\LatihanOverLoadingMethod.AssemblyInfoInputs.cache
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\LatihanOverLoadingMethod.AssemblyInfo.cs
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\LatihanOverLoadingMethod.csproj.CoreCompileInputs.cache
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\bin\Debug\net6.0\LatihanOverLoadingMethod.exe
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\bin\Debug\net6.0\LatihanOverLoadingMethod.deps.json
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\bin\Debug\net6.0\LatihanOverLoadingMethod.runtimeconfig.json
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\bin\Debug\net6.0\LatihanOverLoadingMethod.dll
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\bin\Debug\net6.0\LatihanOverLoadingMethod.pdb
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\LatihanOverLoadingMethod.dll
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\refint\LatihanOverLoadingMethod.dll
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\LatihanOverLoadingMethod.pdb
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\LatihanOverLoadingMethod.genruntimeconfig.cache
+D:\Kuliah\MEKEL\Semester 2\PEMPROGAMAN\PRATIKUM\PRATIKUM 5\LatihanOverLoadingMethod\LatihanOverLoadingMethod\obj\Debug\net6.0\ref\LatihanOverLoadingMethod.dll
